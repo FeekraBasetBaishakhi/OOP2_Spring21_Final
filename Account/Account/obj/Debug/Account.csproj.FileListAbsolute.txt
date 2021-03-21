@@ -1,0 +1,7 @@
+C:\OOP2_Spring21_Final\Account\Account\obj\Debug\Account.csprojAssemblyReference.cache
+C:\OOP2_Spring21_Final\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\OOP2_Spring21_Final\Account\Account\bin\Debug\Account.exe.config
+C:\OOP2_Spring21_Final\Account\Account\bin\Debug\Account.exe
+C:\OOP2_Spring21_Final\Account\Account\bin\Debug\Account.pdb
+C:\OOP2_Spring21_Final\Account\Account\obj\Debug\Account.exe
+C:\OOP2_Spring21_Final\Account\Account\obj\Debug\Account.pdb
