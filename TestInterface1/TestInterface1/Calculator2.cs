@@ -9,8 +9,8 @@ namespace TestInterface1
     
     class Calculator2 : IScientificCalculator, IBasicCalculator
     {
-        int x = 15;
-        int y = 30;
+        int x = 50;
+        int y = 10;
         public int division(int x, int y)
         {
             return x / y;
@@ -31,9 +31,9 @@ namespace TestInterface1
             return x + y;
         }
 
-        public int XtoY(int x, int y)
+        public double XtoY(int x, int y)
         {
-            return (int)Math.Pow(x,y) ;
+            return Math.Pow( x, y ) ;
         }
         public int Absolute(int x)
         {
@@ -41,7 +41,7 @@ namespace TestInterface1
         }
         public void ShowInfo()
         {
-            Console.WriteLine("XtoY :{0}" , (int)Math.Pow(x, y));
+            Console.WriteLine("XtoY :{0}" , Math.Pow(x, y));
             Console.WriteLine("absolute:{0}", Math.Abs(x));
             Console.WriteLine("Sum :{0}", (x + y));
             Console.WriteLine("Sub :{0}", (x - y));

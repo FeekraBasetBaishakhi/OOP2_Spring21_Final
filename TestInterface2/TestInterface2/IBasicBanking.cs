@@ -8,7 +8,7 @@ namespace TestInterface2
 {
     interface IBasicBanking
     {
-        bool deposit(int amount);
-        bool withdraw(int amount);
+        void deposit(int amount);
+        void withdraw(int amount);
     }
 }

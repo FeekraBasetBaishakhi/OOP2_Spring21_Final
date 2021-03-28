@@ -8,7 +8,7 @@ namespace TestInterface1
 {
     interface IScientificCalculator
     {
-        int XtoY(int x, int y);
+        double XtoY(int x, int y);
         int Absolute(int x);
 
     }

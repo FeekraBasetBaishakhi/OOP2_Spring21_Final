@@ -12,9 +12,9 @@ namespace TestInterface1
         {
             Calculator1 c1 = new Calculator1();
             Calculator2 c2 = new Calculator2();
-            Console.WriteLine("****Calculator 1****");
+            Console.WriteLine("****Basic Calculator****");
             c1.ShowInfo();
-            Console.WriteLine("\n****Calculator 2*****");
+            Console.WriteLine("\n****Scientific Calculator*****");
             c2.ShowInfo();
         }
     }

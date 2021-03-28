@@ -8,8 +8,8 @@ namespace TestInterface1
 {
     class Calculator1 : IBasicCalculator
     {
-        int x = 15;
-        int y = 30;
+        int x = 25;
+        int y = 5;
         public int division(int x, int y)
         {
             return x / y;
