@@ -1,0 +1,7 @@
+C:\Users\Feekra\Desktop\FinalLab1\FinalLab1\bin\Debug\FinalLab1.exe.config
+C:\Users\Feekra\Desktop\FinalLab1\FinalLab1\bin\Debug\FinalLab1.exe
+C:\Users\Feekra\Desktop\FinalLab1\FinalLab1\bin\Debug\FinalLab1.pdb
+C:\Users\Feekra\Desktop\FinalLab1\FinalLab1\obj\Debug\FinalLab1.csprojAssemblyReference.cache
+C:\Users\Feekra\Desktop\FinalLab1\FinalLab1\obj\Debug\FinalLab1.csproj.CoreCompileInputs.cache
+C:\Users\Feekra\Desktop\FinalLab1\FinalLab1\obj\Debug\FinalLab1.exe
+C:\Users\Feekra\Desktop\FinalLab1\FinalLab1\obj\Debug\FinalLab1.pdb
